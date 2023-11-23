@@ -12,7 +12,7 @@ a{
     text-decoration: none;
 }
 body{
-	background-image:url('../img/k.jpg');
+	background-image:url('k.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
